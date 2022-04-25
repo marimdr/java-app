@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Hello from Maridurai.N</h2>
-			<h3>DEVOPS PROJECT</h3>
+			<h3>DEVOPS PROJECT.</h3>
 		</div>	
 	</div>
 
